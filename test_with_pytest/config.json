@@ -1,0 +1,5 @@
+{
+  "min_voltage": 3.3,
+  "max_heat": 60.0,
+  "allowed_statuses": ["OK"]
+}
